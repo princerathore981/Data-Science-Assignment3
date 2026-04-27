@@ -157,8 +157,8 @@ Global-Terrorism-EDA/
 
 ## 👤 Author
 
-**NAMAN RANA**
-- GitHub: [@namannnrana](https://github.com/namannnrana)
+**Prince Rathore**
+- GitHub: [@princerathore981](https://github.com/princerathore981)
 
 ---
 
