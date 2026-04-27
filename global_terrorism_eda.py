@@ -1237,5 +1237,3 @@ This EDA of the United Nations Global Terrorism Analysis dataset (1970–2017) h
 This analysis provides a rigorous evidence foundation for the UN and affiliated stakeholders to make **data-driven decisions** in counter-terrorism strategy, humanitarian resource allocation, and conflict prevention — ultimately contributing to a safer world.
 
 ---
-### ***Hurrah! EDA Capstone Project Completed Successfully! 🎉***
-"""
