@@ -10,7 +10,11 @@ Original file is located at
 
 ##### **Project Type** - EDA
 ##### **Contribution** - Individual
-##### **Team Member 1 -** Naman Rana
+##### **Name** - Prince Rathore
+##### **Roll no.** - 2472170
+##### **Course** - B.Tech CSE
+##### **Subject** - Data Science
+##### **ID** - 24CE-62
 
 # **Project Summary**
 
@@ -35,7 +39,7 @@ The UNGTA is a critical resource for the United Nations, national governments, i
 
 # **GitHub Link**
 
-https://github.com/namannnrana/Global-Terrorism-EDA
+https://github.com/princerathore981/Data-Science-Assignment3
 
 # **Problem Statement**
 
